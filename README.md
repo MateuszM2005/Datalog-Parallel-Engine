@@ -1,1 +1,1 @@
-ParallelDeriver.java is a parallel engine for derivation of statements in Datalog language. 
+ParallelDeriver.java is a parallel engine for derivation of statements in Datalog language, this is only a modification of an existing code. The other files are not mine, however I do not know who the author is.
